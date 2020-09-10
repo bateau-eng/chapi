@@ -1,4 +1,4 @@
-module github.com/bateau-eng/chapi/v0
+module github.com/bateau-eng/chapi
 
 go 1.14
 

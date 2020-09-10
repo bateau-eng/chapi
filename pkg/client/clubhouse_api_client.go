@@ -6,7 +6,7 @@ package client
 // Editing this file might prove futile when you re-run the swagger generate command
 
 import (
-	"github.com/bateau-eng/chapi/v0/pkg/client/operations"
+	"github.com/bateau-eng/chapi/pkg/client/operations"
 	"github.com/go-openapi/runtime"
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
@@ -25,7 +25,7 @@ const (
 )
 
 // DefaultSchemes are the default schemes found in Meta (info) section of spec file
-var DefaultSchemes = []string{"https"}
+var DefaultSchemes = []string{"http"}
 
 // NewHTTPClient creates a new clubhouse API HTTP client.
 func NewHTTPClient(formats strfmt.Registry) *ClubhouseAPI {

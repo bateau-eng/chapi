@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/bateau-eng/chapi/v0/pkg/models"
+	"github.com/bateau-eng/chapi/pkg/models"
 )
 
 // NewPostAPIV3StoryLinksParams creates a new PostAPIV3StoryLinksParams object

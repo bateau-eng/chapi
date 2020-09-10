@@ -2,7 +2,7 @@
 package chapi
 
 import (
-	apiclient "github.com/bateau-eng/chapi/v0/pkg/client"
+	apiclient "github.com/bateau-eng/chapi/pkg/client"
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/runtime/client"
 )

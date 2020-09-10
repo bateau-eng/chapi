@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/bateau-eng/chapi/v0/pkg/models"
+	"github.com/bateau-eng/chapi/pkg/models"
 )
 
 // NewPostAPIV3EpicsEpicPublicIDCommentsCommentPublicIDParams creates a new PostAPIV3EpicsEpicPublicIDCommentsCommentPublicIDParams object

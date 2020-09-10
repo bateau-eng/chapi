@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/bateau-eng/chapi/v0/pkg/models"
+	"github.com/bateau-eng/chapi/pkg/models"
 )
 
 // NewPutAPIV3StoryLinksStoryLinkPublicIDParams creates a new PutAPIV3StoryLinksStoryLinkPublicIDParams object

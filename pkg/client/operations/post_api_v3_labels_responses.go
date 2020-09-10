@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/bateau-eng/chapi/v0/pkg/models"
+	"github.com/bateau-eng/chapi/pkg/models"
 )
 
 // PostAPIV3LabelsReader is a Reader for the PostAPIV3Labels structure.
