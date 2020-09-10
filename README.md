@@ -6,4 +6,5 @@ The client is generated from ./clubhouse.swagger.v3.json (sourced from https://c
 
 The current impl was generated using `go-swagger v0.25.0 (f032690aab0634d97e2861a708d8fd9365ba77d2)`
 
+Use the following command to generate the client yourself:
 `swagger generate client -f ./clubhouse.swagger.v3.json --target=./pkg --skip-validation`
